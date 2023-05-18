@@ -3,9 +3,10 @@ hello
 changes
 
 branch1 :changes done
-
+practice makes man perfect
 
 second changes done
+<<<<<<< HEAD
 
 we are going to do rebase
 
@@ -15,3 +16,8 @@ checking
 rebase
 
 
+=======
+need to do lot of work
+keep busy yourself
+>>>>>>> ea21f34 (rebase change1)
+ pooja
