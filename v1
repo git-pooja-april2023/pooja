@@ -1,0 +1,10 @@
+ git init --> initialise the git repository
+git branch <branch name> --> Creates a new branch with specified name
+git status --> tracking of the files
+git add <file name> --> This will move the file from the workspace to staging area.
+git config --global user.name "user_name" --> this will configure the user name
+git config --global user.email "user_email" --> THis will configure the user email
+git commit -m "Meaningful message" --> this will move all the files from local repo to central repo.
+git remote add origin <repo Url> --> this creates a shortened URL which is origin
+git push -u origin main --> push the changes to the above mentioned URL
+

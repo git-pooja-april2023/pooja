@@ -1,0 +1,10 @@
+Git Class-3 16/May/2023
+git clone --> download the remote repository
+git log --> this command will give commit details.
+git branch --> this command will give you the details of the current branch
+git branch <branch name> --> this will create a new branch
+git checkout <branch> --> helps switching the branches
+git push --set-upstream origin <branch-name>  --> this will push all the changes to specified branch
+git remote add <alias name> <repo url> 
+
+
